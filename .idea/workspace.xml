@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1346afb-27f9-4fc9-b148-9a20d1e5d44b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/uwsgi.ini" afterPath="$PROJECT_DIR$/uwsgi.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwsgi.ini" afterPath="$PROJECT_DIR$/uwsgi.ini" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
