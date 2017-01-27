@@ -31,4 +31,4 @@ app.register_blueprint(alert_blueprint, url_prefix="/alerts")
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5010)
